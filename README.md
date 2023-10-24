@@ -1,0 +1,17 @@
+# Unity-Wwise-Game-Template-Angrybots-master.Aw7rF48R.zip
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class DummyScript : MonoBehaviour {
+
+	// Use this for initialization
+	void Start () {
+		
+	}
+	
+	// Update is called once per frame
+	void Update () {
+		
+	}
+}
